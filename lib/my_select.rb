@@ -1,3 +1,5 @@
 def my_select(collection)
- # your code here!
+  
+  while
+ yield()
 end
