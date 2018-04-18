@@ -1,5 +1,6 @@
 def my_select(collection)
-  
-  while
- yield()
+  i = 0
+  new_arr = []
+  while i < collection.length
+ new_arr << yield()
 end
