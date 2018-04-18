@@ -5,3 +5,4 @@ def my_select(collection)
  new_arr << yield(true)
  i+=1
 end
+end
